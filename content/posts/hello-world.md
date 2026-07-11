@@ -15,7 +15,7 @@ This blog is where I write about tech, books, projects, and anything else that c
 ### How this site works
 
 - **Engine:** [Hugo](https://gohugo.io/) — a fast static site generator written in Go
-- **Theme:** [PaperMod](https://github.com/adityatelange/hugo-PaperMod) — clean, minimal, blog-first
+- **Theme:** [hugo-xmin](https://github.com/yihui/hugo-xmin) — minimal, lightweight
 - **Hosting:** GitHub Pages with GitHub Actions for auto-deploy
 - **Writing:** All posts are written in [Obsidian](https://obsidian.md/) and published with a simple `git push`
 
