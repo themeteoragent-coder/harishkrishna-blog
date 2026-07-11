@@ -3,8 +3,6 @@ title: "About"
 description: "About Harish Krishna"
 date: 2026-07-11T21:57:00+05:30
 draft: false
-menu: "main"
-weight: 1
 ---
 
 I'm Harish Krishna — builder, reader, thinker.
