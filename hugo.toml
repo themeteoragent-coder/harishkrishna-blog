@@ -1,0 +1,55 @@
+baseURL = "https://harishkrishna.me/"
+locale = "en-US"
+title = "Harish Krishna"
+theme = "PaperMod"
+paginate = 10
+enableInlineShortcodes = true
+enableRobotsTXT = true
+
+[params]
+  description = "Personal blog by Harish Krishna"
+  author = "Harish Krishna"
+  DateFormat = "2006-01-02"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+
+  [params.homeInfoParams]
+    Title = "Hi, I'm Harish"
+    Content = "Welcome to my corner of the internet. I write about tech, books, and whatever catches my attention."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/themeteoragent-coder"
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:me@harishkrishna.me"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 30
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 40
