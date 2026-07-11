@@ -1,12 +1,30 @@
 ---
 title: "Hello World"
-description: "My first post on the blog."
-date: 2026-07-11T21:57:00+05:30
+description: "The first post on harishkrishna.me — built with Hugo, hosted on GitHub Pages, written in Obsidian."
+date: 2026-07-11T23:42:00+05:30
 draft: false
 tags:
   - meta
+  - blog
 ---
 
-Welcome to the blog. This is the first post — more coming soon.
+Welcome to my personal corner of the internet.
 
-Built with [Hugo](https://gohugo.io/), hosted on GitHub Pages, written in Obsidian.
+This blog is where I write about tech, books, projects, and anything else that catches my attention.
+
+### How this site works
+
+- **Engine:** [Hugo](https://gohugo.io/) — a fast static site generator written in Go
+- **Theme:** [PaperMod](https://github.com/adityatelange/hugo-PaperMod) — clean, minimal, blog-first
+- **Hosting:** GitHub Pages with GitHub Actions for auto-deploy
+- **Writing:** All posts are written in [Obsidian](https://obsidian.md/) and published with a simple `git push`
+
+### What to expect
+
+I don't have a strict schedule — I write when I have something worth saying. Expect posts on:
+- Software engineering and architecture
+- Books I'm reading
+- Projects I'm building
+- Random thoughts that deserve more than a tweet
+
+Thanks for stopping by. 🚀
