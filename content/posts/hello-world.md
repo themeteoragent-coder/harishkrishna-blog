@@ -12,19 +12,6 @@ Welcome to my personal corner of the internet.
 
 This blog is where I write about tech, books, projects, and anything else that catches my attention.
 
-### How this site works
-
-- **Engine:** [Hugo](https://gohugo.io/) — a fast static site generator written in Go
-- **Theme:** [hugo-xmin](https://github.com/yihui/hugo-xmin) — minimal, lightweight
-- **Hosting:** GitHub Pages with GitHub Actions for auto-deploy
-- **Writing:** All posts are written in [Obsidian](https://obsidian.md/) and published with a simple `git push`
-
-### What to expect
-
-I don't have a strict schedule — I write when I have something worth saying. Expect posts on:
-- Software engineering and architecture
-- Books I'm reading
-- Projects I'm building
-- Random thoughts that deserve more than a tweet
+I'll probably use this often to publish my notes
 
 Thanks for stopping by. 🚀

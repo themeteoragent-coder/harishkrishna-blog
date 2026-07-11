@@ -8,5 +8,3 @@ draft: false
 I'm Harish Krishna — builder, reader, thinker.
 
 This is my little space on the web where I share thoughts on technology, books, and projects I'm working on.
-
-Find me on [GitHub](https://github.com/themeteoragent-coder).
