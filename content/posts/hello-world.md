@@ -1,17 +1,14 @@
 ---
-title: "Hello World"
-description: "The first post on harishkrishna.me — built with Hugo, hosted on GitHub Pages, written in Obsidian."
+title: Hello World
+description: Coffee is brewing
 date: 2026-07-11T23:42:00+05:30
 draft: false
 tags:
-  - meta
   - blog
 ---
 
 Welcome to my personal corner of the internet.
 
-This blog is where I write about tech, books, projects, and anything else that catches my attention.
+Nothing here yet, the coffee is brewing 🔥
 
-I'll probably use this often to publish my notes
-
-Thanks for stopping by. 🚀
+Thanks for stopping by and come back soon. 🚀
