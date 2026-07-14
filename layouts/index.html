@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+<div class="blog-header">
+  <h1 class="blog-title">{{ .Site.Title }}</h1>
+  <p class="blog-tagline">Thinking, introspecting and existing</p>
+</div>
+
+{{ .Content }}
+
+<ul>
+  {{ range (where .Site.RegularPages "Section" "!=" "") }}
+  <li>
+    <span class="date">{{ .Date.Format "2006/01/02" }}</span>
+    <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+  </li>
+  {{ end }}
+</ul>
+
+{{ partial "footer.html" . }}
