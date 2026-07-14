@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="4" y="4" width="92" height="92" rx="16" fill="none" stroke="#333" stroke-width="7"/>
+  <g stroke="#333" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- H left vertical -->
+    <line x1="22" y1="18" x2="22" y2="82"/>
+    <!-- H right vertical = K vertical (merged) -->
+    <line x1="50" y1="18" x2="50" y2="82"/>
+    <!-- H crossbar -->
+    <line x1="22" y1="48" x2="50" y2="48"/>
+    <!-- K upper arm -->
+    <line x1="50" y1="48" x2="80" y2="20"/>
+    <!-- K lower arm -->
+    <line x1="50" y1="48" x2="80" y2="80"/>
+  </g>
+</svg>
