@@ -6,7 +6,7 @@ draft: false
 tags:
   - Books
 ---
-![[Pasted image 20261027000731.png]]
+![Fictions by Jorge Luis Borges](/images/borges-fictions.jpg)
 
 Jorge Luis Borges is a stunningly spectacled artist whose imaginative powers push the limits of human thought. Reading Borges gave me a glimpse of how expansive human thought could reach in terms of creativity. His short stories pull you into his world of fantastical labyrinths leaving you confused as to what is real and what is fantasy. 
 
