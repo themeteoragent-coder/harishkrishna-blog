@@ -1,7 +1,7 @@
 ---
 title: Notes on Jorge Luis Borges after reading his 'FICTIONS'
 description: Is it fantasy or is it real?
-date: 2026-10-27T23:42:00+05:30
+date: 2026-10-27T00:15:00+05:30
 draft: false
 tags:
   - Books
