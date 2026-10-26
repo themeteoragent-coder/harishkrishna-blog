@@ -56,5 +56,37 @@
     margin: 0;
   }
 
+  /* First image in a post: float left, text wraps beside it */
+  main img:first-of-type {
+    float: left;
+    max-width: 42%;
+    height: auto;
+    margin: 0.35em 1.4em 0.9em 0;
+  }
+
+  /* Any later images stay centered on their own line */
+  main img {
+    display: block;
+    margin: 1.8em auto;
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* keep the float from bleeding into the footer */
+  main::after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+  /* on narrow screens, don't squeeze the text beside the float */
+  @media (max-width: 600px) {
+    main img:first-of-type {
+      float: none;
+      max-width: 100%;
+      margin: 1.5em auto;
+    }
+  }
+
 
 </style>
